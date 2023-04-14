@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+config.py
+*ipynb
+*.json
+t_*
+chat_logs
+__pycache__
